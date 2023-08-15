@@ -24,8 +24,11 @@ why you
   * **Situation/Task:** During an internship, I was tasked with analyzing a large dataset to identify trends for a marketing campaign.
   * **Action:** I encountered data inconsistencies that affected the analysis. I collaborated with my supervisor to refine the dataset, ensuring accurate results. I also employed data visualization techniques to communicate findings effectively.
   * **Result:** Despite the initial challenges, my analysis provided valuable insights for the marketing team. My problem-solving skills and collaboration with my supervisor improved the quality of the analysis and the campaign's targeting strategy.
-* stress
-* initiative
+* <mark style="background-color:orange;">stress</mark>
+  * **Situation/Task:** During my final semester, I had to complete a time-sensitive data analysis project while preparing for exams.
+  * **Action:** I prioritized tasks and created a detailed schedule, allocating specific time blocks for studying and project work. I utilized time management tools and set realistic goals for each day. To manage stress, I practiced mindfulness techniques and maintained open communication with my professors and project team.
+  * **Result:** Despite the demanding circumstances, I successfully completed both the project and my exams. My ability to manage stress and time effectively showcased my dedication to achieving my academic and professional goals
+* <mark style="background-color:orange;">initiative</mark>
   * **Situation/Task:** In my role as a data analyst, I noticed inefficiencies in our data reporting process that were causing delays.
   * **Action:** I researched and identified a more streamlined reporting tool that could automate data extraction and analysis. I presented this solution to my team and sought approval to implement it.
   * **Result:** The new tool significantly reduced the time required for data reporting, improving efficiency by 40%. This enhancement allowed the team to focus on higher-value tasks and better support decision-making.
