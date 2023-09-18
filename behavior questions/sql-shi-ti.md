@@ -21,7 +21,6 @@ mysql基础操作
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>mysql执行顺序</p></figcaption></figure>
 
 * SQL去重，用户去重常见方法：distinct ,groupby+count(1)/sum(1)
-* 时间函数运用
 * 表连接
 
 ### <mark style="background-color:red;">3.window function 窗口函数</mark>
@@ -53,7 +52,13 @@ mysql基础操作
 
 第二高的薪水
 
-留存率
+留存率:左连接，日期减1,date\_sub(date,inteval 1 day)
+
+<mark style="background-color:red;">时间函数运用：截取日期字段中的有效信息</mark>
+
+* 常用时间函数,year(),month(),day(),date()
+* 字符产函数：substr(str\_expression,start,len)=MID(s,start,len)字符产子集截取，注意下标从1开始，或者用left(expression,len),right(expression,len)从左或从右截取字符串
+* date\_format(date,'%Y-%m-%d %H:%i:%s')字符产可以定制想要的格式
 
 分数排名
 
